@@ -1,4 +1,4 @@
-# FubaKake 🍜
+# FubaKake 🍰
 
 FubaKake é uma rede social colaborativa de receitas (um "GitHub para receitas") onde usuários podem postar, comentar e salvar receitas de outros perfis.
 
